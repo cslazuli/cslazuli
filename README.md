@@ -1,6 +1,4 @@
-### Hi, I'm Ezi! 👋
-
-Here are some ideas to get you started:
+### Hi, I'm Ezinna. But you can call me Ezi! 👋
 
 - 🔭 I’m currently working on ... Visual Novel Projects
 - 🌱 I’m currently learning ... Ren'Py Engine
