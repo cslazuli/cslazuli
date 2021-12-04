@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Python
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... ezionon@gmail.com
-- 😄 Pronouns: ... He/Him
+- 😄 Pronouns: ... Refer to by Name/He/Him
 - ⚡ Fun fact: ... I love all things astronomy and stargazing!
